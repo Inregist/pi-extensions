@@ -1,0 +1,13 @@
+# Secrets / machine-local auth
+/auth.json
+
+# Runtime state
+/sessions/
+
+# Downloaded binaries and package installs
+/bin/
+**/node_modules/
+
+# Logs and caches
+*.log
+.cache/
